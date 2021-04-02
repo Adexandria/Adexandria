@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adexandria
 - 👀 I’m interested in AI,Backend and Games
 - 🌱 I’m currently learning Backend using C# and asp.net core framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on dotnet projects
 - 📫 How to reach me @ adeolaaderibigbe09@gmail.com or my twiiter handle @addiexandria
 
 <!---
