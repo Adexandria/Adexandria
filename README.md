@@ -19,7 +19,6 @@
 ![MicrosoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ## 👩‍💻Currently Working on
-- [AdeCartAPI](https://github.com/Adexandria/AdeCartAPI)
 - [EmployeePayRollAPI](https://github.com/Adexandria/EmployeePayrollApi)
 
 ## 📔Currently Learning
