@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/DLWGvDkhhyMAAAAj/gray-hair-big-eyes.gif" width="100" height="100">
 
-## Hi 👋, I’m Adeola Aderibigbe. I build cool stuffs using C#
+## Hi 👋, I’m Adeola Aderibigbe. I build cool stuffs with C#
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-aderibigbe-a70195185/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolaaderibigbe09@gmail.com)&nbsp;
