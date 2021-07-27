@@ -27,7 +27,7 @@
 - Data Structure and Algorithms
 
 ## 
-[![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
+[![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
 
 <!---
 Adexandria/Adexandria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
