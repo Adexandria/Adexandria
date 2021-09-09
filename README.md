@@ -12,7 +12,7 @@
 - 😏Currently watching: ✨Anime✨
 - 🥰Favourite animals: 🐶🐱🐹🐰🐷🐮🐸🐴🦄
 - 👓I like working on AI and Backend
-- [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)_
+- [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)
 
 ## 🔨Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
