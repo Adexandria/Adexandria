@@ -21,11 +21,13 @@ Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1
 ![MicrosoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ## 👩‍💻Currently Working on
-- [EmployeePayRollAPI](https://github.com/Adexandria/EmployeePayrollApi)
+- [MusicPlatformAPI](https://github.com/Adexandria/MusicPlatform)
 
 ## 📔Currently Learning
 - TSQL
 - Data Structure and Algorithms
+- Authentication
+- Azure
 
 ## 
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
