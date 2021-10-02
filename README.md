@@ -12,6 +12,8 @@
 - 😏Currently watching: ✨Anime✨
 - 🥰Favourite animals: 🐶🐱🐹🐰🐷🐮🐸🐴🦄
 - 👓I like working on AI and Backend
+-  Certified Azure Developer
+-  Certified Microsoft Trainer
 
 Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)
 
