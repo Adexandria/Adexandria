@@ -27,8 +27,8 @@
 - [MusicPlatformAPI](https://github.com/Adexandria/MusicPlatform)
 
 ## 👩‍💻 check out my recent project Documentation
--[AdeMusicPlatform](https://musicplatform.azurewebsites.net/index.html)
--[FruitAPI](https://fruitapi.azurewebsites.net/index.html)
+- [AdeMusicPlatform](https://musicplatform.azurewebsites.net/index.html)
+- [FruitAPI](https://fruitapi.azurewebsites.net/index.html)
 
 ## 📔Currently Learning
 - TSQL
