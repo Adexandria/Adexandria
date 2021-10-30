@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/DLWGvDkhhyMAAAAj/gray-hair-big-eyes.gif" width="100" height="100">
 
-## Hi 👋, I’m Adeola Aderibigbe. I build cool stuffs with C#
+## Hi 👋, I’m Adeola Aderibigbe. I build cool stuffs using C#
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-aderibigbe-a70195185/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolaaderibigbe09@gmail.com)&nbsp;
@@ -12,11 +12,11 @@
 - 😏Currently watching: ✨Anime✨
 - 🥰Favourite animals: 🐶🐱🐹🐰🐷🐮🐸🐴🦄
 - 👓I like working on AI and Backend
--  Certified Azure Developer
--  Certified Azure AI Developer
--  Certified Microsoft Trainer
+- 🏆 Certified Azure Developer
+- 🏆 Certified Azure AI Developer
+- 🏆 Certified Microsoft Trainer
 
-Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)
+## Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)
 
 ## 🔨Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -26,13 +26,16 @@ Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1
 ## 👩‍💻Currently Working on
 - [MusicPlatformAPI](https://github.com/Adexandria/MusicPlatform)
 
+## 👩‍💻 check out my recent project Documentation
+-[AdeMusicPlatform](https://musicplatform.azurewebsites.net/index.html)
+-[FruitAPI](https://fruitapi.azurewebsites.net/index.html)
+
 ## 📔Currently Learning
 - TSQL
 - Data Structure and Algorithms
-- Authentication
 - Azure
 
-## 
+
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
 
 <!---
