@@ -25,15 +25,13 @@
 ![MsqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MicrosoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
-## 👩‍💻Currently Working on
-- [MusicPlatformAPI](https://github.com/Adexandria/MusicPlatform)
 
 ## 👩‍💻 check out my recent project Documentation
 - [AdeMusicPlatform](https://musicplatform.azurewebsites.net/index.html)
 - [FruitAPI](https://fruitapi.azurewebsites.net/index.html)
 
 ## 📔Currently Learning
-- TSQL
+- Docker
 - Data Structure and Algorithms
 - Azure
 
