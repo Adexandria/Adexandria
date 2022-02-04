@@ -36,7 +36,7 @@
 - Azure
 
 ## Currently working on
--[Automated BookStore](https://github.com/Adexandria/Automated_BookStore)
+- [Automated BookStore](https://github.com/Adexandria/Automated_BookStore)
 
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
 
