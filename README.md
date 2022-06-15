@@ -18,7 +18,7 @@
 - 🏆Microsoft Learn Student Ambassador
 - 🏆AngelHack Ambassador
 
-## Check out my [Resume](https://docs.google.com/document/d/1njdDf0lEYZNUZovxFCENW1NU5JSR9j9F_fjtGgBW-jI/edit?usp=sharing)
+## Check out my [Resume](https://drive.google.com/file/d/1RL-sh3Sp8f5EkY0Pbh32xfehZ7WdSTp1/view?usp=sharing)
 
 ## 🔨Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
