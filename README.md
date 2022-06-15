@@ -39,7 +39,7 @@
 
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
 
-[!<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/source.gif" width="200" height="200">](https://www.buymeacoffee.com/adexandria)
+[Buy me a coffee](https://www.buymeacoffee.com/adexandria)
 
 
 <!---
