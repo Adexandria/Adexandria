@@ -10,15 +10,10 @@
 - 😎fun fact: i am probably working on a project
 - 🤗Pronouns: She/her
 - 😏Currently watching: ✨Anime✨
-- 🥰Favourite animals: 🐶🐱🐹🐰🐷🐮🐸🐴🦄
 - 👓I like working on AI and Backend
-- 🏆 Certified Azure Developer
-- 🏆 Certified Azure AI Developer
-- 🏆 Certified Microsoft Trainer
 - 🏆Microsoft Learn Student Ambassador
-- 🏆AngelHack Ambassador
 
-## Check out my [Resume](https://drive.google.com/file/d/1RL-sh3Sp8f5EkY0Pbh32xfehZ7WdSTp1/view?usp=sharing)
+## Check out my [Resume](https://drive.google.com/file/d/1TY6myGFMbW5spf7yDdF3cqc6uDq5VRWQ/view?usp=sharing)
 
 ## 🔨Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
