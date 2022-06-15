@@ -1,41 +1,75 @@
-<img src="https://c.tenor.com/DLWGvDkhhyMAAAAj/gray-hair-big-eyes.gif" width="100" height="100">
+<h1 align="center">Hi , I'm Adeola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Node.js%20|%20Csharp%20;&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">
+I am a Nigerian backend engineer and open source contributor. She/her are my pronouns. I enjoy playing video games and watching anime.
+<hr/>
+  
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adexandria&theme=algolia" alt="adexandria" /></p>
+<br>
+<hr/>
 
-## Hi 👋, I’m Adeola Aderibigbe. I build cool stuffs using C#
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-aderibigbe-a70195185/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolaaderibigbe09@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/addiexandria)
+## 🏆 Trophies
+<p align="center"> <a href="https://github.com/adexandria"><img
+      src="https://github-profile-trophy.vercel.app/?username=adexandria&row=1&column=3&theme=algolia" alt="adexandria" /></a>  </p>
 
-## 🔖 Things about me
-- 😎fun fact: i am probably working on a project
-- 🤗Pronouns: She/her
-- 😏Currently watching: ✨Anime✨
-- 👓I like working on AI and Backend
-- 🏆Microsoft Learn Student Ambassador
+<!-- algolia -->
+<br>
+<hr/>
 
-## Check out my [Resume](https://drive.google.com/file/d/1TY6myGFMbW5spf7yDdF3cqc6uDq5VRWQ/view?usp=sharing)
+## ⚡ Recent GitHub Activity
+<p align = "center">
+<a align=href="https://github.com/adexandria/github-readme-stats"><img alt="Adeola's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Adexandria&hide=issues&show_icons=true&theme=radical" /></a>
+</p>
+<hr/>
+ ## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:adeolaaderibigbe09@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/adeola-aderibigbe-a70195185/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/addiexandria"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+</p>
+ 
+<hr/>
 
-## 🔨Tools
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![MsqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![MicrosoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+## 🛠️ My Skills
+
+### 👉 Tools
+
+<p align="center"> 
+  &emsp; 
+  <a> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  </a> 
+  &emsp;
+   <a> 
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a> 
+  &emsp;
+   <a> 
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  </a> 
+</p>
+
+ ### 👉 Competitive Programming & Problem Solving
+ 
+<p align="center">
+    <a href="https://www.hackerrank.com/adeolaaderibigb1"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+</p>
 
 
-## 👩‍💻 check out my recent project Documentation
-- [AdeMusicPlatform](https://musicplatform.azurewebsites.net/index.html)
-- [FruitAPI](https://fruitapi.azurewebsites.net/index.html)
-
-## 📔Currently Learning
-- Docker
-- Data Structure and Algorithms
-
-## Currently working on
-- [Automated BookStore](https://github.com/Adexandria/Automated_BookStore)
-
-[![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adexandria&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/adexandria/github-readme-stats)
-
-[Buy me a coffee](https://www.buymeacoffee.com/adexandria)
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adexandria)
 
 <!---
 Adexandria/Adexandria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
