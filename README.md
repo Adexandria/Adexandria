@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Adeola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Souce+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
+  <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Source+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
 </p>
 <hr/>
   
