@@ -64,6 +64,7 @@
 <p align="center">
     <a href="https://www.hackerrank.com/adeolaaderibigb1"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
+  <a href="https://leetcode.com/Blankie/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode-%232EC866.svg?style=plastic&logo=leetcode&logoColor=white" /></a>
 </p>
 
 
