@@ -11,7 +11,7 @@
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/adexandria"><img
-      src="https://github-profile-trophy.vercel.app/?username=adexandria&row=1&column=3&theme=algolia" alt="adexandria" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=adexandria&row=1&column=6&theme=algolia" alt="adexandria" /></a>  </p>
 
 <!-- algolia -->
 <br>
