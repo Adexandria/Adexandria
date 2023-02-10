@@ -57,6 +57,9 @@
    <a> 
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   </a> 
+   <a>
+   <img alt = "SQL" src= "https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=SQL&logoColor=white">
+   </a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
