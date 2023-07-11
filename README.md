@@ -17,12 +17,6 @@
 <br>
 <hr/>
 
-## ⚡ Recent GitHub Activity
-<p align = "center">
-<a align=href="https://github.com/adexandria/github-readme-stats"><img alt="Adeola's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Adexandria&hide=issues&show_icons=true&theme=radical" /></a>
-</p>
-<hr/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:adeolaaderibigbe09@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
