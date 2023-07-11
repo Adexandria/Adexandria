@@ -1,4 +1,12 @@
-<h1 align="center">Hi , I'm Adeola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align = "center">
+	<img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="480" height ="360">
+</p>
+<h1 align="center">Hi , I'm Adeola
+<p>
+<img src="https://komarev.com/ghpvc/?username=Adexandria&style=flat-square&color=blue" alt=""/>
+</p>
+</h1>
+
 <p align="center">
   <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Source+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
 </p>
@@ -21,7 +29,6 @@
 <p align="center">
 	<a href="mailto:adeolaaderibigbe09@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/adeola-aderibigbe-a70195185/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/addiexandria"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 </p>
  
 <hr/>
