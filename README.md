@@ -1,17 +1,18 @@
 <p align = "center">
-	<img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="480" height ="360">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3puZGltamM0endvY2N4emNmOXk3ZjFkZjBzZThreHlqNmt2ZnV2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBEbpVdXZEKZg08/giphy.gif" width="480" height ="360">
 </p>
-<h1 align="center">Hi , I'm Adeola
-<p>
-<img src="https://komarev.com/ghpvc/?username=Adexandria&style=flat-square&color=blue" alt=""/>
-</p>
-</h1>
-
+<h1 align="center">Hi, I'm Adeola</h1>
+<br>
 <p align="center">
-  <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Source+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
+<img src="https://komarev.com/ghpvc/?username=Adexandria&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+<p align= "center">
+	<a href="https://aderibigbe.vzy.io/">Adeola Aderibigbe</a>
+</p>
+<p align="center">
+<a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Source+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-  
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adexandria&theme=algolia" alt="adexandria" /></p>
 <br>
