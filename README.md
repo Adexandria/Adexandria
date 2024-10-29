@@ -13,6 +13,7 @@
 <a href="https://github.com/adexandria"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer+And+Open+Source+Contributor;Node.js%20|%20Csharp%20;My+pronouns+are+She/her&center=true&width=500&height=50"></a>
 </p>
 <hr/>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adexandria&theme=algolia" alt="adexandria" /></p>
 <br>
@@ -62,6 +63,30 @@
    <a>
    <img alt = "SQL" src= "https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=SQL&logoColor=white">
    </a>
+   <a>
+   <img alt = "Doxgen" src= "https://img.shields.io/badge/Doxygen-blue?style=for-the-badge&logo=Doxygen&logoColor=white">
+   </a>
+   <a>
+   <img alt = "YAML" src= "https://img.shields.io/badge/YAML-orange?style=for-the-badge&logo=YAML&logoColor=white">
+   </a>
+    <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white">
+   </a>
+	<a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/RabbitMQ-red?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+   </a>
+<a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Github_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white">
+   </a>
+	<a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Azure_AI-blue?style=for-the-badge&logoColor=white">
+   </a>
+  <a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Azure_Devops-green?style=for-the-badge&logoColor=white">
+   </a>
+ <a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Unit_Testing-pink?style=for-the-badge&logoColor=white">
+   </a>	
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
@@ -73,10 +98,29 @@
 </p>
 
 
-### 🎁 Check out my self publish libraries
-- [Automapify](https://www.nuget.org/packages/Automapify)
+## 🎁 Check out my self publish libraries
+ ### Automapify
+ Automapify is a .NET library designed to simplify the process of object mapping without the need for extensive service setup or configuration. This tool provides two main methods for utilization: Attributes and Configuration.
+ 
+**Attributes Method**:
+- Use the MapProperty attribute to specify the property name from the source in the destination object.
+- Allows for easy mapping to both new and existing objects using simple method calls.
+  
+**Configuration Method**:
+- Create detailed mapping configurations using a MapifyConfigurationBuilder.
+- This method is more flexible, allowing for complex mappings and transformations between source and destination objects.
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adexandria)
+Check it out on [nuget package](https://www.nuget.org/packages/Automapify) or if you like to contribute to the open source project, check out [Automapify](https://github.com/Adexandria/AutoMapify_Lib)
+
+
+## ❤ Do you love what you're seeing and want to support me?
+
+<p align="center">	
+<a href="https://www.buymeacoffee.com/adexandria"> 	
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JneGZ2aGFzb2lmdzcxcXhlOWN4bXpvd2FwMm9odm5oNGNxOWJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif" width="480" height ="360">	
+</a>	
+</p>
+
 
 <!---
 Adexandria/Adexandria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
