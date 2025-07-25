@@ -112,6 +112,10 @@
 
 Check it out on [nuget package](https://www.nuget.org/packages/Automapify) or if you like to contribute to the open source project, check out [Automapify](https://github.com/Adexandria/AutoMapify_Lib)
 
+### Access-forge
+This package provides an authentication system developed in C# using .NET 8. It includes core components such as the token provider, password manager, user manager, and sign-in manager.
+
+Check it out on [nuget package](https://www.nuget.org/packages/access-forge/) or or if you like to contribute to the open source project, check out [access-forge](https://github.com/Adexandria/access-forge)
 
 ## ❤ Do you love what you're seeing and want to support me?
 
